@@ -1,5 +1,5 @@
 # Advanced Demo - Simple Site2Site VPN
-![Architecture](Site2SiteVPN.png)
+![Architecture](Site2Site VPN.png)
 In this mini project I implement a site to site VPN between AWS and a simulated on-premises business site running the pfSense router/NAT software.
 
 The demo consists of 5 stages, each implementing additional components of the architecture  
